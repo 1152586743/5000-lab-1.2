@@ -1,0 +1,72 @@
+[
+  {
+    "objectID": "slides/yaml.html#slide-1",
+    "href": "slides/yaml.html#slide-1",
+    "title": "My Presentation",
+    "section": "Slide 1",
+    "text": "Slide 1\nThis is the content of slide 1."
+  },
+  {
+    "objectID": "slides/yaml.html#slide-2",
+    "href": "slides/yaml.html#slide-2",
+    "title": "My Presentation",
+    "section": "Slide 2",
+    "text": "Slide 2\nThis is the content of slide 2.\nslides/slides.ipynb##"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "simple_quarto_website",
+    "section": "",
+    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
+  },
+  {
+    "objectID": "index.html#section-1",
+    "href": "index.html#section-1",
+    "title": "simple_quarto_website",
+    "section": "Section 1",
+    "text": "Section 1\n\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Mauris cursus mattis molestie a iaculis. Accumsan sit amet nulla facilisi morbi. Mattis aliquam faucibus purus in massa. Molestie at elementum eu facilisis sed odio morbi. Urna molestie at elementum eu facilisis sed. Nibh tellus molestie nunc non blandit massa. Vel turpis nunc eget lorem dolor sed. Praesent tristique magna sit amet purus gravida quis blandit. Lacus suspendisse faucibus interdum posuere lorem. Proin gravida hendrerit lectus a. Eget arcu dictum varius duis at consectetur lorem donec.\n\nNibh tellus molestie nunc non blandit massa. Vel turpis nunc eget lorem dolor sed. Praesent tristique magna sit amet purus gravida quis blandit. Lacus suspendisse faucibus interdum posuere lorem. Proin gravida hendrerit lectus a. Eget arcu dictum varius duis at consectetur lorem donec."
+  },
+  {
+    "objectID": "index.html#section-2",
+    "href": "index.html#section-2",
+    "title": "simple_quarto_website",
+    "section": "Section 2",
+    "text": "Section 2\n\nNunc consequat interdum varius sit amet mattis. Proin libero nunc consequat interdum varius. Id nibh tortor\nid aliquet lectus proin nibh nisl. Donec ac odio tempor orci dapibus ultrices. Odio morbi quis commodo odio aenean sed. Sit amet justo donec enim diam. Sapien pellentesque habitant morbi tristique senectus et netus et malesuada. Lectus nulla at volutpat diam ut venenatis. Amet porttitor eget dolor morbi non arcu.\nAdipiscing bibendum est ultricies integer quis auctor elit. Quis enim lobortis scelerisque fermentum dui faucibus in ornare quam. Lorem ipsum dolor sit amet consectetur adipiscing. Mattis pellentesque id nibh tortor id aliquet. Facilisis gravida neque convallis a cras semper auctor. Ac tortor dignissim convallis aenean."
+  },
+  {
+    "objectID": "index.html#section-3",
+    "href": "index.html#section-3",
+    "title": "simple_quarto_website",
+    "section": "Section 3",
+    "text": "Section 3\nDuis at tellus at urna condimentum mattis pellentesque. Viverra vitae congue eu consequat ac felis donec et. Ullamcorper a lacus vestibulum sed arcu non. Proin libero nunc consequat interdum varius sit. Gravida cum sociis natoque penatibus et. Dignissim sodales ut eu sem integer vitae justo eget magna. At augue eget arcu dictum. Porttitor eget dolor morbi non arcu risus. Urna condimentum mattis pellentesque id nibh tortor id. Elit ut aliquam purus sit.\n\n\n\n\n\n\nHeader 1\nHeader 2\n\n\n\n\n1\n2\n\n\n3\n4\n\n\n\n\n\n\n\\(A = \\pi r^2\\)\n\n\n\n\n\n\nName\nGrade\n\n\n\n\nIan\n10000000\n\n\nCrescent\n0\n\n\n\n\n\n\n\\[\nA = \\pi r^2\n\\]\n\n\n\nHi [^1].\n\n\n\n\nVery serious quote here\n\n\n\n\n Caption for Image 1.\n Caption for Image 2.\n\n\n\n\n\n\n\n\n\n\n\n\nflowchart LR\n  A[Meet] --&gt; B(Chat)\n  B --&gt; C{Fall in love}\n  C --&gt; D[Marry]\n  C --&gt; E[Break up]\n\n\nA Mermaid diagram\n\n\n\n\n\n\n@article{moskos1976military,\n  title={The military},\n  author={Moskos Jr, Charles C},\n  journal={Annual Review of Sociology},\n  volume={2},\n  number={1},\n  pages={55--77},\n  year={1976},\n  publisher={Annual Reviews 4139 El Camino Way, PO Box 10139, Palo Alto, CA 94303-0139, USA}\n}"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site\nSection 1\nLorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Mauris cursus mattis molestie a iaculis. Accumsan sit amet nulla facilisi morbi. Mattis aliquam faucibus purus in massa. Molestie at elementum eu facilisis sed odio morbi. Urna molestie at elementum eu facilisis sed. Nibh tellus molestie nunc non blandit massa. Vel turpis nunc eget lorem dolor sed. Praesent tristique magna sit amet purus gravida quis blandit. Lacus suspendisse faucibus interdum posuere lorem. Proin gravida hendrerit lectus a. Eget arcu dictum varius duis at consectetur lorem donec.\nSection 2\nDuis at tellus at urna condimentum mattis pellentesque. Viverra vitae congue eu consequat ac felis donec et. Ullamcorper a lacus vestibulum sed arcu non. Proin libero nunc consequat interdum varius sit. Gravida cum sociis natoque penatibus et. Dignissim sodales ut eu sem integer vitae justo eget magna. At augue eget arcu dictum. Porttitor eget dolor morbi non arcu risus. Urna condimentum mattis pellentesque id nibh tortor id. Elit ut aliquam purus sit.\nSection 3\nDuis at tellus at urna condimentum mattis pellentesque. Viverra vitae congue eu consequat ac felis donec et. Ullamcorper a lacus vestibulum sed arcu non. Proin libero nunc consequat interdum varius sit. Gravida cum sociis natoque penatibus et. Dignissim sodales ut eu sem integer vitae justo eget magna. At augue eget arcu dictum. Porttitor eget dolor morbi non arcu risus. Urna condimentum mattis pellentesque id nibh tortor id. Elit ut aliquam purus sit.\n\nimport matplotlib.pyplot as plt\n\n\nx = [1, 2, 3, 4, 5]\ny = [2, 4, 6, 8, 10]\n\nplt.plot(x, y)\n\nplt.show()"
+  },
+  {
+    "objectID": "slides/slides.html#hello-world",
+    "href": "slides/slides.html#hello-world",
+    "title": "Hobby",
+    "section": "hello world",
+    "text": "hello world\n(ar?){moskos1976military, title={The military}, author={Moskos Jr, Charles C}, journal={Annual Review of Sociology}, volume={2}, number={1}, pages={55–77}, year={1976}, publisher={Annual Reviews 4139 El Camino Way, PO Box 10139, Palo Alto, CA 94303-0139, USA} }"
+  },
+  {
+    "objectID": "slides/slides.html#welcome",
+    "href": "slides/slides.html#welcome",
+    "title": "Hobby",
+    "section": "welcome",
+    "text": "welcome\n Caption for Image 1."
+  },
+  {
+    "objectID": "slides/slides.html#this-it-best",
+    "href": "slides/slides.html#this-it-best",
+    "title": "Hobby",
+    "section": "THIS it best",
+    "text": "THIS it best\n\n\nCode\n# hello world\nprint(\"hello world\")"
+  }
+]
