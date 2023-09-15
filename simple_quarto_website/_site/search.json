@@ -39,7 +39,14 @@
     "href": "index.html#section-3",
     "title": "simple_quarto_website",
     "section": "Section 3",
-    "text": "Section 3\nDuis at tellus at urna condimentum mattis pellentesque. Viverra vitae congue eu consequat ac felis donec et. Ullamcorper a lacus vestibulum sed arcu non. Proin libero nunc consequat interdum varius sit. Gravida cum sociis natoque penatibus et. Dignissim sodales ut eu sem integer vitae justo eget magna. At augue eget arcu dictum. Porttitor eget dolor morbi non arcu risus. Urna condimentum mattis pellentesque id nibh tortor id. Elit ut aliquam purus sit.\n\n\n\n\n\n\nHeader 1\nHeader 2\n\n\n\n\n1\n2\n\n\n3\n4\n\n\n\n\n\n\n\\(A = \\pi r^2\\)\n\n\n\n\n\n\nName\nGrade\n\n\n\n\nIan\n10000000\n\n\nCrescent\n0\n\n\n\n\n\n\n\\[\nA = \\pi r^2\n\\]\n\n\n\nHi [^1].\n\n\n\n\nVery serious quote here\n\n\n\n\n Caption for Image 1.\n Caption for Image 2.\n\n\n\n\n\n\n\n\n\n\n\n\nflowchart LR\n  A[Meet] --&gt; B(Chat)\n  B --&gt; C{Fall in love}\n  C --&gt; D[Marry]\n  C --&gt; E[Break up]\n\n\nA Mermaid diagram\n\n\n\n\n\n\n@article{moskos1976military,\n  title={The military},\n  author={Moskos Jr, Charles C},\n  journal={Annual Review of Sociology},\n  volume={2},\n  number={1},\n  pages={55--77},\n  year={1976},\n  publisher={Annual Reviews 4139 El Camino Way, PO Box 10139, Palo Alto, CA 94303-0139, USA}\n}"
+    "text": "Section 3\nDuis at tellus at urna condimentum mattis pellentesque. Viverra vitae congue eu consequat ac felis donec et. Ullamcorper a lacus vestibulum sed arcu non. Proin libero nunc consequat interdum varius sit. Gravida cum sociis natoque penatibus et. Dignissim sodales ut eu sem integer vitae justo eget magna. At augue eget arcu dictum. Porttitor eget dolor morbi non arcu risus. Urna condimentum mattis pellentesque id nibh tortor id. Elit ut aliquam purus sit. [^3]\n\n\n\n\n\n\nHeader 1\nHeader 2\n\n\n\n\n1\n2\n\n\n3\n4\n\n\n\n\n\n\n\\(A = \\pi r^2\\)\n\n\n\n\n\n\nName\nGrade\n\n\n\n\nIan\n10000000\n\n\nCrescent\n0\n\n\n\n\n\n\n\\[\nA = \\pi r^2\n\\]\n\n\n\nHi 1\n\n\n\n\nVery serious quote here\n\n\n\n\n Caption for Image 1.\n Caption for Image 2.\n\n\n\n\n\n\n\n\n\n\n\n\nflowchart LR\n  A[Meet] --&gt; B(Chat)\n  B --&gt; C{Fall in love}\n  C --&gt; D[Marry]\n  C --&gt; E[Break up]\n\n\nA Mermaid diagram\n\n\n\n\n\n\n(Moskos Jr 1976)\n(Soeters, Winslow, and Weibull 2006)"
+  },
+  {
+    "objectID": "index.html#footnotes",
+    "href": "index.html#footnotes",
+    "title": "simple_quarto_website",
+    "section": "Footnotes",
+    "text": "Footnotes\n\n\nnote 1↩︎"
   },
   {
     "objectID": "about.html",
@@ -53,7 +60,7 @@
     "href": "slides/slides.html#hello-world",
     "title": "Hobby",
     "section": "hello world",
-    "text": "hello world\n(ar?){moskos1976military, title={The military}, author={Moskos Jr, Charles C}, journal={Annual Review of Sociology}, volume={2}, number={1}, pages={55–77}, year={1976}, publisher={Annual Reviews 4139 El Camino Way, PO Box 10139, Palo Alto, CA 94303-0139, USA} }"
+    "text": "hello world\n(ar?; Soeters, Winslow, and Weibull 2006)"
   },
   {
     "objectID": "slides/slides.html#welcome",
@@ -67,6 +74,6 @@
     "href": "slides/slides.html#this-it-best",
     "title": "Hobby",
     "section": "THIS it best",
-    "text": "THIS it best\n\n\nCode\n# hello world\nprint(\"hello world\")"
+    "text": "THIS it best\n\n\nCode\n# hello world\nprint(\"hello world\")\n\n\n\n\n\n\n\n\nSoeters, Joseph L, Donna J Winslow, and Alise Weibull. 2006. “Military Culture.” Handbook of the Sociology of the Military, 237–54."
   }
 ]

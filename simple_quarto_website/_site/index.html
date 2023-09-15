@@ -20,7 +20,26 @@ ul.task-list li input[type="checkbox"] {
   margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
   vertical-align: middle;
 }
-</style>
+/* CSS for citations */
+div.csl-bib-body { }
+div.csl-entry {
+  clear: both;
+}
+.hanging-indent div.csl-entry {
+  margin-left:2em;
+  text-indent:-2em;
+}
+div.csl-left-margin {
+  min-width:2em;
+  float:left;
+}
+div.csl-right-inline {
+  margin-left:2em;
+  padding-left:1em;
+}
+div.csl-indent {
+  margin-left: 2em;
+}</style>
 
 
 <script src="site_libs/quarto-nav/quarto-nav.js"></script>
@@ -161,7 +180,7 @@ ul.task-list li input[type="checkbox"] {
 </section>
 <section id="section-3" class="level2">
 <h2 class="anchored" data-anchor-id="section-3">Section 3</h2>
-<p>Duis at tellus at urna condimentum mattis pellentesque. Viverra vitae congue eu consequat ac felis donec et. Ullamcorper a lacus vestibulum sed arcu non. Proin libero nunc consequat interdum varius sit. Gravida cum sociis natoque penatibus et. Dignissim sodales ut eu sem integer vitae justo eget magna. At augue eget arcu dictum. Porttitor eget dolor morbi non arcu risus. Urna condimentum mattis pellentesque id nibh tortor id. Elit ut aliquam purus sit.</p>
+<p>Duis at tellus at urna condimentum mattis pellentesque. Viverra vitae congue eu consequat ac felis donec et. Ullamcorper a lacus vestibulum sed arcu non. Proin libero nunc consequat interdum varius sit. Gravida cum sociis natoque penatibus et. Dignissim sodales ut eu sem integer vitae justo eget magna. At augue eget arcu dictum. Porttitor eget dolor morbi non arcu risus. Urna condimentum mattis pellentesque id nibh tortor id. Elit ut aliquam purus sit. [^3]</p>
 <ol start="3" type="1">
 <li></li>
 </ol>
@@ -217,7 +236,7 @@ A = \pi r^2
 <ol start="7" type="1">
 <li></li>
 </ol>
-<p>Hi [^1].</p>
+<p>Hi <a href="#fn1" class="footnote-ref" id="fnref1" role="doc-noteref"><sup>1</sup></a></p>
 <ol start="8" type="1">
 <li></li>
 </ol>
@@ -255,21 +274,27 @@ A = \pi r^2
 <ol start="12" type="1">
 <li></li>
 </ol>
-<pre><code>@article{moskos1976military,
-  title={The military},
-  author={Moskos Jr, Charles C},
-  journal={Annual Review of Sociology},
-  volume={2},
-  number={1},
-  pages={55--77},
-  year={1976},
-  publisher={Annual Reviews 4139 El Camino Way, PO Box 10139, Palo Alto, CA 94303-0139, USA}
-}</code></pre>
+<p><span class="citation" data-cites="moskos1976military">(<a href="#ref-moskos1976military" role="doc-biblioref">Moskos Jr 1976</a>)</span></p>
+<p><span class="citation" data-cites="soeters2006military">(<a href="#ref-soeters2006military" role="doc-biblioref">Soeters, Winslow, and Weibull 2006</a>)</span></p>
+
 
 
 </section>
 
-</main> <!-- /main -->
+
+<div id="quarto-appendix" class="default"><section class="quarto-appendix-contents" role="doc-bibliography"><h2 class="anchored quarto-appendix-heading">References</h2><div id="refs" class="references csl-bib-body hanging-indent" role="list">
+<div id="ref-moskos1976military" class="csl-entry" role="listitem">
+Moskos Jr, Charles C. 1976. <span>“The Military.”</span> <em>Annual Review of Sociology</em> 2 (1): 55–77.
+</div>
+<div id="ref-soeters2006military" class="csl-entry" role="listitem">
+Soeters, Joseph L, Donna J Winslow, and Alise Weibull. 2006. <span>“Military Culture.”</span> <em>Handbook of the Sociology of the Military</em>, 237–54.
+</div>
+</div></section><section id="footnotes" class="footnotes footnotes-end-of-document" role="doc-endnotes"><h2 class="anchored quarto-appendix-heading">Footnotes</h2>
+
+<ol>
+<li id="fn1"><p>note 1<a href="#fnref1" class="footnote-back" role="doc-backlink">↩︎</a></p></li>
+</ol>
+</section></div></main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
 window.document.addEventListener("DOMContentLoaded", function (event) {
   const toggleBodyColorMode = (bsSheetEl) => {
